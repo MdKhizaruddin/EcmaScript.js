@@ -6,7 +6,7 @@ console.log(arr1);
 const arrsliced=arr1.slice(2,7)
 console.log(arrsliced);
 arr1.splice(2,0)
-console.log(arr1)
+console.log(arr1);
 
 
 
